@@ -1,5 +1,5 @@
 # Tensorflow-Profiling
-This is a repository for tensorflow r0.8 for pofiling for compiler purposes
+This is a repository for tensorflow r0.8 for profiling for compiler purposes
 
 profiled benchmarks
 
