@@ -1,5 +1,5 @@
 # Tensorflow-Profiling
-This is a repository for tensorflow r0.8 for profiling for compiler purposes
+This is a repository for EE382V Code Generation and Optimization tensorflow r0.8 profiling
 
 profiled benchmarks
 
@@ -11,3 +11,5 @@ profiled benchmarks
 * vgg
 
 4 hardware performance counters i7-4790
+
+used perf, valgrind, cProfile, and vtune 
